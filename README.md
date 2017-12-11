@@ -1,4 +1,4 @@
-[![GameTitle](https://raw.githubusercontent.com/SkidRunner/Armor-Class/master/docs/images/GameTitle.png)]()
+[![GameTitle](https://raw.githubusercontent.com/SkidRunner/Armor-Class/master/docs/images/GameTitle.png)](https://skidrunner.github.io/Armor-Class/)
 
 [![Build Status](https://travis-ci.org/SkidRunner/Armor-Class.svg?branch=master)](https://travis-ci.org/SkidRunner/Armor-Class) [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause) [![GitHub Stars](https://img.shields.io/github/stars/SkidRunner/Armor-Class.svg)](https://github.com/SkidRunner/Armor-Class/stargazers)
 [![GitHub Issues](https://img.shields.io/github/issues/SkidRunner/Armor-Class.svg)](https://github.com/SkidRunner/Armor-Class/issues) [![Current Version](https://img.shields.io/badge/version-1.0.0-green.svg)](https://github.com/SkidRunner/Armor-Class) [![Live Demo](https://img.shields.io/badge/demo-online-red.svg)]()
