@@ -26,7 +26,7 @@
 /*
 .game-header {
   position: relative;
-  background-image: url(../images/header-bg.jpg);
+  background-image: url(https://raw.githubusercontent.com/SkidRunner/Armor-Class/master/docs/images/images/header-bg.jpg);
 }
 */
 
@@ -56,7 +56,7 @@
 }
 
 .game-logo {
-  background: url(../images/GameTitle.png) 50% no-repeat;
+  background: url(https://raw.githubusercontent.com/SkidRunner/Armor-Class/master/docs/images/GameTitle.png) 50% no-repeat;
   background-size: cover;
   height: 150px;
   width: 150px;
@@ -114,15 +114,15 @@
 }
 
 .game-blog-card-full-bg {
-  background: url(../images/example-blog03.jpg) center / cover;
+  background: url(https://raw.githubusercontent.com/SkidRunner/Armor-Class/master/docs/images/example-blog03.jpg) center / cover;
 }
 
 .game-blog-card-event-bg {
-  background: url(../images/example-blog05.jpg) center / cover;
+  background: url(https://raw.githubusercontent.com/SkidRunner/Armor-Class/master/docs/images/example-blog05.jpg) center / cover;
 }
 
 .game-blog-card-strip-bg {
-  background: url(images/example-blog06.jpg) center / cover;
+  background: url(https://raw.githubusercontent.com/SkidRunner/Armor-Class/master/docs/images/example-blog06.jpg) center / cover;
 }
 
 .game-blog-card-compact .mdl-card__title {
@@ -191,6 +191,6 @@ img.article-image {
 }
 
 footer {
-  background-image: url(../images/footer-background.png);
+  background-image: url(https://raw.githubusercontent.com/SkidRunner/Armor-Class/master/docs/images/footer-background.png);
   background-size: cover;
 }
