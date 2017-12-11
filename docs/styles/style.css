@@ -56,7 +56,7 @@
 }
 
 .game-logo {
-  background: url(images/logo.png) 50% no-repeat;
+  background: url(../images/GameTitle.png) 50% no-repeat;
   background-size: cover;
   height: 150px;
   width: 150px;
@@ -114,11 +114,11 @@
 }
 
 .game-blog-card-full-bg {
-  background: url(images/example-blog03.jpg) center / cover;
+  background: url(../images/example-blog03.jpg) center / cover;
 }
 
 .game-blog-card-event-bg {
-  background: url(images/example-blog05.jpg) center / cover;
+  background: url(../images/example-blog05.jpg) center / cover;
 }
 
 .game-blog-card-strip-bg {
@@ -191,6 +191,6 @@ img.article-image {
 }
 
 footer {
-  background-image: url(images/footer-background.png);
+  background-image: url(../images/footer-background.png);
   background-size: cover;
 }
