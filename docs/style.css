@@ -58,8 +58,8 @@
 .game-logo {
   background: url(images/GameTitle.png) 50% no-repeat;
   background-size: cover;
-  height: 150px;
-  width: 150px;
+  height: 64px;
+  width: 428px;
   margin: auto auto 10px;
 }
 
