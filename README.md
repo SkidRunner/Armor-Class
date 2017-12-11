@@ -4,17 +4,16 @@
 
 3D - Cross Platform - Third Person - Bullet Hell
 
-## Game Design Notes
+# Description
 
-## Technical Highlights
+## Art
 
-## Art Direction
+## Design
 
-## Running Locally
+## Mechanics
 
-## Supporting Technologies
-### Engine
-* [jMonkeyEngine](http://jmonkeyengine.org/)
+## Technologies
+* [![jMonkeyEngine](https://hub.jmonkeyengine.org/uploads/default/1252/91fcc91347189c84.png)](https://hub.jmonkeyengine.org/)
 
 ## Contributors
 
